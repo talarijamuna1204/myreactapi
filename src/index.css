@@ -1,0 +1,39 @@
+.not-found {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .next-btn{
+    text-align: right;
+  }
+
+  .profile-box img{
+    height: 100px;
+    }
+    .profile-box button{
+    font-size: 12px;
+    }
+    .profile-box p{
+    font-size: 13px;
+    line-height: 1;
+    }
+
+    .comment{
+      font-size: 12px;
+    }
+
+    .my-face {
+      @include material-icon('delete');
+    }
+   
+
+    
+
+
+  

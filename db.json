@@ -1,0 +1,58 @@
+{
+  "reviewers": [
+    {
+      "fist_name": "Yogi",
+      "last_name": "Bolta",
+      "city": "Hydrabad",
+      "country": "India",
+      "email": "yogi@gmail.com",
+      "review": "Ghost Hunt is one of my favurite anime.<3",
+      "id": 1
+    },
+    {
+      "fist_name": "Teen",
+      "last_name": "John",
+      "city": "Rohna",
+      "country": "India",
+      "email": "teen@gmail.com",
+      "review": "One of my lovable anime is Akira. It is just awesome movie.",
+      "id": 2
+    },
+    {
+      "fist_name": "Uno",
+      "last_name": "Saga",
+      "city": "Hui",
+      "country": "Japan",
+      "email": "Uno@gmail.cm",
+      "review": "My opinion may vary from others and this is fine. People are different so there is a good chance that I will not like what you love. Deal with it. I'm not telling you that you should hate it too, I'm telling you why I didn't like it.",
+      "id": 3
+    },
+    {
+      "fist_name": "Cody",
+      "last_name": "Jeen",
+      "city": "JUi",
+      "country": "JP",
+      "email": "cody@gmail.com",
+      "review": "Gunslinger Girl is a very tough anime to summarize. Part of it is action, most of the story is drama, some sci-fi, and a dash of comedy make this a blend of many different genres. However, Gunslinger Girl nails the mark on every level, making this one of the most compelling anime shows I have ever seen.\n",
+      "id": 4
+    },
+    {
+      "fist_name": "Jet",
+      "last_name": "Roh",
+      "city": "Vui",
+      "country": "JP",
+      "email": "jet@gml.com",
+      "review": "At first I was a bit hesitant about watching Gunslinger Girl. I was afraid it&rsquo;s going to end up too serious and too difficult to comprehend. I was wrong on both counts. The girls made the anime more suited to my taste (not like I&rsquo;m a pedophile or a dirty guy or anything like that). It gets serious and hard to understand sometimes, but for most of the time, I actually enjoyed myself.",
+      "id": 5
+    },
+    {
+      "fist_name": "Royin",
+      "last_name": "Saw",
+      "city": "Fui",
+      "country": "HO",
+      "email": "Royin@gmail.con",
+      "review": "My review is not all on the positive side, I don't know whether I see it from a different angle. But take it for what it is, for this is perhaps a different opinion.\n\nAdvantages: Good character construction; Beautiful Scenery\n\nDisadvantages: Long wait periods; No active plot line; depressing; cold characters towards one another.\n\n\"A good job is the constant pile up of simple duties.\" Henrietta",
+      "id": 6
+    }
+  ]
+}
